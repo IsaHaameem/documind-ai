@@ -1,0 +1,47 @@
+# Local environment and service credentials
+.env
+.env.*
+!/.env.example
+.envrc
+.direnv/
+**/.streamlit/secrets.toml
+.pgpass
+.pg_service.conf
+.netrc
+.pypirc
+.npmrc
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_ed25519
+
+# Generated data and local reports
+*.dump
+*.sql.gz
+*.sqlite*
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.log
+gitleaks-report.*
+
+# Python environments, caches and build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How long do I have to request a refund, and what do I need?",
+    "expected_answer": "You have 30 calendar days from delivery and need proof of purchase.",
+    "relevant_passages": ["Customers may request a refund within 30 calendar days of delivery.", "Proof of purchase is required for all refund requests."]
+  },
+  {
+    "question": "What does FIN-115 say about the deadline for travel expenses?",
+    "expected_answer": "Submit the report within 14 days of returning.",
+    "relevant_passages": ["Employees must submit travel expense reports within 14 days of returning."]
+  },
+  {
+    "question": "Which ticket gets the fastest initial response, and how quickly?",
+    "expected_answer": "An urgent production incident gets an initial response within one hour.",
+    "relevant_passages": ["Urgent production incidents receive an initial response within one hour."]
+  },
+  {
+    "question": "How long are access logs retained?",
+    "expected_answer": "They are kept for 90 days.",
+    "relevant_passages": ["Access logs are kept for 90 days."]
+  }
+]

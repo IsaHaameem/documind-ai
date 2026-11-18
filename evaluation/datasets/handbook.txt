@@ -1,0 +1,11 @@
+DocuMind demo handbook
+
+Returns policy RET-042: Customers may request a refund within 30 calendar days of delivery. Proof of purchase is required for all refund requests.
+
+Expense policy FIN-115: Employees must submit travel expense reports within 14 days of returning. The Finance team reviews properly documented expenses.
+
+Support service SVC-301: Urgent production incidents receive an initial response within one hour. Standard requests receive an initial response within two business days.
+
+Warranty policy WAR-300: Hardware has a two-year warranty from the date of purchase. Accidental damage is excluded from the standard warranty.
+
+Privacy policy SEC-220: Access logs are kept for 90 days. Document owners may request deletion through the privacy desk.
